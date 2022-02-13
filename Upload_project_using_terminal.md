@@ -1,4 +1,4 @@
-#Upload a project to a repository using github command line.
+# Upload a project to a repository using github command line.
 
 **Requirement**: Must have Git terminal or the command "git" working.
 
