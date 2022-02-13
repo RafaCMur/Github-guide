@@ -7,5 +7,5 @@
 3. `git add .` - Will add the files in the new local repository.
 4. `git status` - Will display all the files staged for commit.
 5. `git commit -m “any message desired”`
-6. `git remote add origin https://github.com/RafaCMur/MY-REPOSITORY-EXAMPLE`
+6. `git remote add origin https://github.com/RafaCMur/MY-REPOSITORY-NAME`
 7. `git push` -u origin master
