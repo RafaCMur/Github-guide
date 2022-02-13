@@ -9,5 +9,3 @@
 5. `git commit -m “any message desired”`
 6. `git remote add origin https://github.com/RafaCMur/MY-REPOSITORY-NAME`
 7. `git push -u origin master`
-
-I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
