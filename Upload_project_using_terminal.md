@@ -1,6 +1,6 @@
 # Upload a project to a repository using github command line.
 
-**Requirement**: Must have Git terminal or the command "git" working.
+<span style="color:red">**Requirement**</span>: Must have Git terminal or the command "git" working.
 
 1. Set your local project to the present working directory in the terminal and type the following commands
 2. `git init` - To initialize the local directory as a Git repository. A .git file will appear in the project folder.
